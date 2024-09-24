@@ -8,10 +8,8 @@
 
 
 
-<video width="600" controls style="border: 2px solid #ccc; border-radius: 15px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);">
-  <source src="./Assets/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<img src="./Assets/demo.gif" alt="Demo GIF" width="600" style="border: 2px solid #ccc; border-radius: 15px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);">
+
 
 <p align="center">
   <img src="./Assets/physical_experiment_result.jpg" alt="Example Image" width="900" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
