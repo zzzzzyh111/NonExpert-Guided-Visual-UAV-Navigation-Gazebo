@@ -1,8 +1,8 @@
 # NonExpert-Guided-Visual-UAV-Navigation-Gazebo
-A Gazebo-based framework that enhances perception-constrained UAV navigation capabilities guided by non-expert reinforcement learning.
+:rocket:A Gazebo-based framework that enhances perception-constrained UAV navigation capabilities guided by non-expert reinforcement learning.
 
 <p align="center">
-  <img src="./Assets/framework.jpg" alt="Example Image" width="600" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
+  <img src="./Assets/framework.jpg" alt="Example Image" width="900" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
 </p>
 
 
@@ -14,7 +14,7 @@ A Gazebo-based framework that enhances perception-constrained UAV navigation cap
 </video>
 
 <p align="center">
-  <img src="./Assets/physical_experiment_result.jpg" alt="Example Image" width="600" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
+  <img src="./Assets/physical_experiment_result.jpg" alt="Example Image" width="900" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
 </p>
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
@@ -78,7 +78,7 @@ This project focuses on enhancing the navigation capabilities of UAVs in environ
 
 This project builds upon a previous simpler version, which can be found on GitHub: ➡️ **[gazebo_uav_RL](https://github.com/zzzzzyh111/gazebo_uav_RL)**
 
-This work has been published in [IEEE Transactions on Artificial Intelligence](https://ieeexplore-ieee-org.remotexs.ntu.edu.sg/abstract/document/10684842). Please kindly refer to the following format for citations if needed
+This work has been published in [IEEE Transactions on Artificial Intelligence](https://ieeexplore-ieee-org.remotexs.ntu.edu.sg/abstract/document/10684842). Please kindly refer to the following format for citations if needed :clap: :clap: :clap:
 
 ```bibtex
 @article{zhang2024npe,
@@ -170,13 +170,13 @@ Here is an explanation of the other important scripts used in this project:
 <!-- Results -->
 ## Results
 <p align="center">
-  <img src="./Assets/result_reward.jpg" alt="Image 1" width="250" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); margin-right: 20px;">
-  <img src="./Assets/result_success_rate.jpg" alt="Image 2" width="250" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+  <img src="./Assets/result_reward.jpg" alt="Image 1" width="400" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); margin-right: 20px;">
+  <img src="./Assets/result_success_rate.jpg" alt="Image 2" width="400" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
 </p>
 
 <p align="center">
-  <img src="./Assets/tra_cylinder.jpg" alt="Image 1" width="250" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); margin-right: 20px;">
-  <img src="./Assets/tra_furniture.jpg" alt="Image 2" width="250" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+  <img src="./Assets/tra_cylinder.jpg" alt="Image 1" width="500" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); margin-right: 20px;">
+  <img src="./Assets/tra_furniture.jpg" alt="Image 2" width="500" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
 </p>
 
 
