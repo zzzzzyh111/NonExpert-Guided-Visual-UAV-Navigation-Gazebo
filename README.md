@@ -8,7 +8,10 @@
 
 
 
-<img src="./Assets/demo.gif" alt="Demo GIF" width="600" style="border: 2px solid #ccc; border-radius: 15px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);">
+<p align="center">
+  <img src="./Assets/demo.gif" alt="Demo GIF" width="900" style="border: 2px solid #ccc; border-radius: 15px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);">
+</p>
+
 
 
 <p align="center">
