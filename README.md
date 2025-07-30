@@ -1,4 +1,4 @@
-# NonExpert-Guided-Visual-UAV-Navigation-Gazebo
+# NPE-DRL
 :rocket:A Gazebo-based framework that enhances perception-constrained UAV navigation capabilities guided by non-expert reinforcement learning.
 
 <p align="center">
